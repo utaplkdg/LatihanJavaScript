@@ -1,4 +1,2 @@
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
+"ini JavaScript pertama saya"
+ 
